@@ -1,26 +1,26 @@
-# hubot-ingress-barcodes
+# hubot-ingress-codebars
 
-Decode names of players who exploit sans-serif to obfuscate their identities.
+Encode player names that exploit sans-serif to obfuscate their identities.
 
-See [`src/ingress-barcodes.coffee`](src/ingress-barcodes.coffee) for full documentation.
+See [`src/ingress-codebars.coffee`](src/ingress-codebars.coffee) for full documentation.
 
 ## Installation
 
 In hubot project repo, run:
 
-`npm install hubot-ingress-barcodes --save`
+`npm install hubot-ingress-codebars --save`
 
-Then add **hubot-ingress-barcodes** to your `external-scripts.json`:
+Then add **hubot-ingress-codebars** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-ingress-barcodes"
+  "hubot-ingress-codebars"
 ]
 ```
 
 ## Sample Interaction
 
 ```
-user1>> hubot bc IlIlIlIlIlIlllI
-hubot>> BorgKween
+user1>> hubot cb ABC
+hubot>> IlIlIlIlIlIlllI
 ```

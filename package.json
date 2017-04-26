@@ -1,19 +1,19 @@
 {
-  "name": "hubot-ingress-barcodes",
-  "description": "Decode names of players who exploit sans-serif to obfuscate their identities.",
+  "name": "hubot-ingress-codebars",
+  "description": "Encode player names that exploit sans-serif to obfuscate their identities.",
   "version": "0.0.0",
-  "author": "Jack Miner <3ch01c@gmail.com>",
+  "author": "Paul Robison <paul@nosybore.net>",
   "license": "MIT",
 
   "keywords": "hubot, hubot-scripts, ingress, barcodes",
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-ingress-barcodes.git"
+    "url": "git://github.com/hubot-scripts/hubot-ingress-codebars.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-ingress-barcodes/issues"
+    "url": "https://github.com/hubot-scripts/hubot-ingress-codebars/issues"
   },
 
   "dependencies": {
